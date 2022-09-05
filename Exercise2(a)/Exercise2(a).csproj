@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="othersolutions\restaurantapp.zip" />
     <None Include="othersolutions\restaurantapp\.vscode\.altemplates\table.dictionary.json" />
     <None Include="othersolutions\restaurantapp\.vscode\.altemplates\table.entry.json" />
     <None Include="othersolutions\restaurantapp\.vs\ProjectSettings.json" />
